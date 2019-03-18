@@ -1,1 +1,1 @@
-Link: <a href="https://stealwater.github.io/">stealwater.github.io</a> 
+Link: [stealwater.github.io](https://stealwater.github.io/) 
